@@ -13,3 +13,5 @@ void main() {
     printf("Enter the temperature in Fahrenheit: %f", &fahrenheit);
     getch();
 }
+
+// s
